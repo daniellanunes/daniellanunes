@@ -3,9 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-argolo-nunes-42a8981a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levi_an_2/)
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellanunes&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellanunes&layout=compact)
 
 ### Tecnologias que eu uso no meu dia 💻
 
